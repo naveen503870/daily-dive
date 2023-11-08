@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/daily-dive/static/css/main.f855e6bc.css",
+    "main.js": "/daily-dive/static/js/main.07d77b39.js",
+    "static/js/787.2e11af86.chunk.js": "/daily-dive/static/js/787.2e11af86.chunk.js",
+    "index.html": "/daily-dive/index.html",
+    "main.f855e6bc.css.map": "/daily-dive/static/css/main.f855e6bc.css.map",
+    "main.07d77b39.js.map": "/daily-dive/static/js/main.07d77b39.js.map",
+    "787.2e11af86.chunk.js.map": "/daily-dive/static/js/787.2e11af86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.07d77b39.js"
+  ]
+}
